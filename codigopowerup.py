@@ -95,3 +95,4 @@ for linha in tabela.index: # para cada linha da minha tabela repetir essas açõ
     pyautogui.scroll(10000) # resetar scroll
 
 # FINISH
+
